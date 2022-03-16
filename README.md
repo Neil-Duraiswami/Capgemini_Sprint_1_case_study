@@ -5,3 +5,6 @@ The application development has to be done in sprints and should follow Agile me
 ABC Corp understands that you have graduated recently from college.
 In order to help you get skilled on the technologies needed, you have been provided with a learning platform called ADAPT
 
+**Note : To run these programs either delete the import package statement.
+                                    OR 
+         Create a package of the imported package.                             
